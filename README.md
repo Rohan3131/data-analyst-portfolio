@@ -2,7 +2,7 @@
 This repository contains my **Data Analysis & Automation Projects** build during my Diploma in Computer Engineering (Parul University, CGPA 7.26/10).
 I created these projects to improve my **Excel, Python, and Data Verification Skills with a focus on solving real-world business problems.**
 
-**Projects****
+**Projects**
 1. **Sample Project 1- Academic Grading System (Excel)**
      - Build a **grading calculator** using Excel formulas (IF, SUM, RANK).
      - Automated grade assignment (A+ to F) based on percentage.
@@ -31,9 +31,9 @@ I created these projects to improve my **Excel, Python, and Data Verification Sk
        - **Learning Outcome**: Hands-on experience in Python (Pandas, Numpy, Openpyxl) and end-to-end automation.
    
   **Skills Used**
-     - Excel: Formulas (SUM, IF, VLOOKUP, RANK), PivotTables, Conditoinal Formatting, Charts.
-     - Python: Pandas, Numpy, Openpyxl, ExcelWriter.
-     - Data Skills: Data Cleaning, Verificaton, Automation, Report Generation.
+     - **Excel**: Formulas (SUM, IF, VLOOKUP, RANK), PivotTables, Conditoinal Formatting, Charts.
+     - **Python**: Pandas, Numpy, Openpyxl, ExcelWriter.
+     - **Data Skills**: Data Cleaning, Verificaton, Automation, Report Generation.
 
   **About Me**
     I am Rohan Sakariya, a Diploma student (Computer Engineering, 2023-2025).
