@@ -48,7 +48,7 @@ I created these projects to strengthen my **Excel, Python, and Data Verification
 
 ## How to Run the Python Project.
 1. Clone this repo.
-2. Install requirements:'pip install pandas numpy openpyxl'.
-3. Run:'python automate_sample_2.py'.
-   Output:'payroll_report.xlsx' will be generated.
+2. Install requirements:'pip install pandas numpy openpyxl', (open CMD and paste it).
+3. Run the script : 'python automate_sample_2.py'.
+   Output file : 'payroll_report.xlsx' will be generated.
 
