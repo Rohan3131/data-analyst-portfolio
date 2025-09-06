@@ -1,6 +1,6 @@
 # data-analyst-portfolio - Rohan Sakariya 
 This repository contains my **Data Analysis & Automation Projects** built during my Diploma in Computer Engineering (Parul University, CGPA 7.26/10).
-I created these projects to improve my **Excel, Python, and Data Verification Skills with a focus on solving real-world business problems.**
+I created these projects to strengthen my **Excel, Python, and Data Verification skills**, with a focus on solving **real-world business problems**.
 
 **Projects**
 1. **Sample Project 1- Academic Grading System (Excel)**
@@ -45,3 +45,10 @@ I created these projects to improve my **Excel, Python, and Data Verification Sk
       - Passionate about data analysis & automation.
       - Strong at problem solving & attention to detail.
       - Looking to start my career as a Data Verification Assistant / Data Analyst.
+#=========================================================================================================
+## How to Run the Python Project.
+1. Clone this repo.
+2. Install requirements:'pip install pandas numpy openpyxl'.
+3. Run:'python automate_sample_2.py'.
+   Output:'payroll_report.xlsx' will be generated.
+#=========================================================================================================
