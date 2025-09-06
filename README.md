@@ -1,5 +1,5 @@
 # data-analyst-portfolio - Rohan Sakariya 
-This repository contains my **Data Analysis & Automation Projects** build during my Diploma in Computer Engineering (Parul University, CGPA 7.26/10).
+This repository contains my **Data Analysis & Automation Projects** built during my Diploma in Computer Engineering (Parul University, CGPA 7.26/10).
 I created these projects to improve my **Excel, Python, and Data Verification Skills with a focus on solving real-world business problems.**
 
 **Projects**
@@ -9,7 +9,7 @@ I created these projects to improve my **Excel, Python, and Data Verification Sk
    
       **Mistake I made**:
         - At first, I created a wrong chart and did not prepare proper table info.
-        - Later, I corrected it -> learned how to properly design charts.
+        - Later, I corrected it - learned how to properly design charts.
     - Learning Outcome: Stronger skills in Excel formulas & data visualization.
   
 2. **Sample Project 2- Sales & Finance Dashboard (Excel)**
@@ -18,7 +18,7 @@ I created these projects to improve my **Excel, Python, and Data Verification Sk
        
       **Mistake I made**:
         - Initially, pivot table setup was wrong, and formatting looked messy.
-        - Corrected errors -> learned conditional formatting & clean reporting.
+        - Corrected errors - learned conditional formatting & clean reporting.
 
 3. **Automated Payroll & Data Verification System (Python + Excel)**
      - Developed a **Python Automation Script** that calculated salaries, validates data, and generates excel reports.
@@ -29,8 +29,8 @@ I created these projects to improve my **Excel, Python, and Data Verification Sk
            - Excel reports auto-generated with ₹ Indian currency formatting.
    
        **Challenges I faced**:
-           - Many errors during execution -> fixed step by step.
-           - In Excel, bonus column first showed **#####** -> solved by adjusting column width.
+           - Many errors during execution - fixed step by step.
+           - In Excel, bonus column first showed **#####** - solved by adjusting column width.
            - Applied ₹ currency formatting only on salary columns, not on attendance days.
        
         **Learning Outcome**: Hands-on experience in Python (Pandas, NumPy, Openpyxl) and end-to-end automation.
