@@ -6,6 +6,7 @@ I created these projects to improve my **Excel, Python, and Data Verification Sk
 1. **Sample Project 1- Academic Grading System (Excel)**
      - Build a **grading calculator** using Excel formulas (IF, SUM, RANK).
      - Automated grade assignment (A+ to F) based on percentage.
+   
       **Mistake I made**:
         - At first, I created a wrong chart and did not prepare proper table info.
         - Later, I corrected it -> learned how to properly design charts.
@@ -14,6 +15,7 @@ I created these projects to improve my **Excel, Python, and Data Verification Sk
 2. **Sample Project 2- Sales & Finance Dashboard (Excel)**
      - Designed a financial report using **PivotTables** and **Conditional Formatting**.
      - Created insights for department-wise performance.
+       
       **Mistake I made**:
         - Initially, pivot table setup was wrong, and formatting looked messy.
         - Corrected errors -> learned conditional formatting & clean reporting.
