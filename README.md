@@ -45,10 +45,10 @@ I created these projects to strengthen my **Excel, Python, and Data Verification
       - Passionate about data analysis & automation.
       - Strong at problem solving & attention to detail.
       - Looking to start my career as a Data Verification Assistant / Data Analyst.
-#=========================================================================================================
+
 ## How to Run the Python Project.
 1. Clone this repo.
 2. Install requirements:'pip install pandas numpy openpyxl'.
 3. Run:'python automate_sample_2.py'.
    Output:'payroll_report.xlsx' will be generated.
-#=========================================================================================================
+
