@@ -1,54 +1,90 @@
-# data-analyst-portfolio - Rohan Sakariya 
-This repository contains my **Data Analysis & Automation Projects** built during my Diploma in Computer Engineering (Parul University, CGPA 7.26/10).
-I created these projects to strengthen my **Excel, Python, and Data Verification skills**, with a focus on solving **real-world business problems**.
+# Data Entry & Reporting Portfolio – Rohan Sakariya
 
-**Projects**
-1. **Sample Project 1- Academic Grading System (Excel)**
-     - Build a **grading calculator** using Excel formulas (IF, SUM, RANK).
-     - Automated grade assignment (A+ to F) based on percentage.
-   
-      **Mistake I made**:
-        - At first, I created a wrong chart and did not prepare proper table info.
-        - Later, I corrected it - learned how to properly design charts.
-    - Learning Outcome: Stronger skills in Excel formulas & data visualization.
-  
-2. **Sample Project 2- Sales & Finance Dashboard (Excel)**
-     - Designed a financial report using **PivotTables** and **Conditional Formatting**.
-     - Created insights for department-wise performance.
-       
-      **Mistake I made**:
-        - Initially, pivot table setup was wrong, and formatting looked messy.
-        - Corrected errors - learned conditional formatting & clean reporting.
+This repository contains my Excel-based reporting projects created during my Diploma in Computer Engineering (Parul University, CGPA 7.26/10). These projects demonstrate my ability to work with MS-Excel, MS-Office reporting, and data verification — skills directly relevant to the Data Entry Executive role.
 
-3. **Automated Payroll & Data Verification System (Python + Excel)**
-     - Developed a **Python Automation Script** that calculated salaries, validates data, and generates excel reports.
-   
-       **Features**:
-           - Data validation (attendance errors auto-fixed).
-           - Per-day salary, net salary, department summaries.
-           - Excel reports auto-generated with ₹ Indian currency formatting.
-   
-       **Challenges I faced**:
-           - Many errors during execution - fixed step by step.
-           - In Excel, bonus column first showed **#####** - solved by adjusting column width.
-           - Applied ₹ currency formatting only on salary columns, not on attendance days.
-       
-        **Learning Outcome**: Hands-on experience in Python (Pandas, NumPy, Openpyxl) and end-to-end automation.
-   
-  **Skills Used**:
-     - **Excel**: Formulas (SUM, IF, VLOOKUP, RANK), PivotTables, Conditional Formatting, Charts.
-     - **Python**: Pandas, NumPy, Openpyxl, Excel Writer.
-     - **Data Skills**: Data Cleaning, Verification, Automation, Report Generation.
+📂 Projects
+1. Academic Grading System (Excel)
 
-  **About Me**:
-    I am Rohan Sakariya, a Diploma student (Computer Engineering, 2023-2025).
-      - Passionate about data analysis & automation.
-      - Strong at problem solving & attention to detail.
-      - Looking to start my career as a Data Verification Assistant / Data Analyst.
+Designed a grading calculator using Excel formulas (IF, SUM, RANK).
 
-## How to Run the Python Project.
-1. Clone this repo.
-2. Install requirements:'pip install pandas numpy openpyxl', (open CMD and paste it).
-3. Run the script : 'python automate_sample_2.py'.
-   Output file : 'payroll_report.xlsx' will be generated.
+Automated grade assignment (A+ to F) based on percentage.
 
+Created a clean student performance report with charts and rankings.
+Learning Outcome: Improved skills in Excel formulas, conditional formatting, and visualization.
+
+2. Employee Payroll Reporting (Excel)
+
+Built a payroll workbook with employee details, salary calculation, bonuses, and net pay.
+
+Added department-wise summaries and contribution analysis.
+
+Created a professional report & presentation (Word + PPT) to demonstrate business-level reporting.
+Learning Outcome: Accuracy in data handling, professional MS-Office reporting.
+
+3. Automated Payroll & Data Verification (Python + Excel) (Bonus Project)
+
+Automated payroll processing with Python (Pandas, OpenPyxl).
+
+Features: data validation, per-day salary calculation, net salary, and department summaries.
+
+Generated Excel reports with Indian ₹ currency formatting.
+Learning Outcome: Hands-on with automation tools, though Excel & MS-Office remain my core skills for reporting.
+
+🛠️ Skills Demonstrated
+
+MS-Excel: Formulas (SUM, IF, VLOOKUP, RANK), PivotTables, Charts, Conditional Formatting.
+
+MS-Office: Word (professional reports), PowerPoint (executive presentations).
+
+Core Strengths: Attention to detail, accuracy, data verification, and reporting.
+
+(Bonus) Python (Pandas, NumPy, OpenPyxl) – for future automation readiness.
+
+👤 About Me
+
+I am Rohan Sakariya, a Computer Engineering diploma student (2023–2025).
+
+Passionate about data reporting & verification.
+
+Strong in Excel and MS-Office for creating structured, error-free reports.
+
+Proven ability to design professional outputs for business use cases.
+
+Looking to start my career as a Data Entry / Data Verification Executive.
+
+📑 Portfolio Files in this Repo
+
+Excel Workbooks (Raw Data + Reports).
+
+Word Summaries (professional documentation).
+
+PowerPoint Presentations (executive-level).
+
+Certificate: Cisco – Introduction to Data Science.
+
+🚀 How to View
+
+Open the Reports folder → contains Word + PPT files.
+
+Open the Excel Projects folder → contains raw Excel workbooks.
+
+Certificates available in Certificates folder.
+
+🔑 Why This Portfolio
+
+This portfolio is designed to show my ability to:
+
+Work accurately with Excel data.
+
+Create professional MS-Office reports.
+
+Communicate results in clear English.
+
+Deliver outputs that match company reporting standards.
+
+📬 Contact
+
+📧 Email: sakariyarohan121727@gmail.com
+
+📱 Phone: +91 95868 63131
+📍 Jamnagar
