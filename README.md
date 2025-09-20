@@ -24,6 +24,7 @@ Learning Outcome: Accuracy in data handling, professional MS-Office reporting.
    - Automated payroll processing with Python (Pandas, OpenPyxl).
    - Features: data validation, per-day salary calculation, net salary, and department summaries.
    - Generated Excel reports with Indian ₹ currency formatting.
+
 Learning Outcome: Hands-on with automation tools, though Excel & MS-Office remain my core skills for reporting.
 
 
