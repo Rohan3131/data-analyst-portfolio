@@ -9,7 +9,7 @@ This repository contains my Excel-based reporting projects created during my Dip
      - Designed a grading calculator using Excel formulas (IF, SUM, RANK).
      - Automated grade assignment (A+ to F) based on percentage.
      - Created a clean student performance report with charts and rankings.
-Learning Outcome: Improved skills in Excel formulas, conditional formatting, and visualization.
+    Learning Outcome: Improved skills in Excel formulas, conditional formatting, and visualization.
 
 
 **2. Employee Payroll Reporting (Excel)**
