@@ -21,9 +21,10 @@ Learning Outcome: Accuracy in data handling, professional MS-Office reporting.
 
 
 **3. Automated Payroll & Data Verification (Python + Excel) (Bonus Project)**
-   - Automated payroll processing with Python (Pandas, OpenPyxl).
-   - Features: data validation, per-day salary calculation, net salary, and department summaries.
-   - Generated Excel reports with Indian ₹ currency formatting.
+
+    - Automated payroll processing with Python (Pandas, OpenPyxl).
+    - Features: data validation, per-day salary calculation, net salary, and department summaries.
+    - Generated Excel reports with Indian ₹ currency formatting.
 
 Learning Outcome: Hands-on with automation tools, though Excel & MS-Office remain my core skills for reporting.
 
@@ -38,7 +39,7 @@ Learning Outcome: Hands-on with automation tools, though Excel & MS-Office remai
 **About Me**
 
 
-I am Rohan Sakariya, a Computer Engineering diploma student (2023–2025).
+    I am Rohan Sakariya, a Computer Engineering diploma student (2023–2025).
       - Passionate about data reporting & verification.
       - Strong in Excel and MS-Office for creating structured, error-free reports.
       - Proven ability to design professional outputs for business use cases.
@@ -59,7 +60,7 @@ I am Rohan Sakariya, a Computer Engineering diploma student (2023–2025).
 
 **Why This Portfolio**
 
-This portfolio is designed to show my ability to:
+    This portfolio is designed to show my ability to:
     - Work accurately with Excel data.
     - Create professional MS-Office reports.
     - Communicate results in clear English.
@@ -69,5 +70,6 @@ This portfolio is designed to show my ability to:
 
  Email: sakariyarohan121727@gmail.com
 
- Phone: +91 9586863131
-Location: Jamnagar
+ Phone: +91 9586863131.
+ 
+ Location: Jamnagar, Gujarat, India.
