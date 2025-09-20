@@ -21,7 +21,6 @@ Learning Outcome: Accuracy in data handling, professional MS-Office reporting.
 
 
 **3. Automated Payroll & Data Verification (Python + Excel) (Bonus Project)**
-
    - Automated payroll processing with Python (Pandas, OpenPyxl).
    - Features: data validation, per-day salary calculation, net salary, and department summaries.
    - Generated Excel reports with Indian ₹ currency formatting.
@@ -36,6 +35,7 @@ Learning Outcome: Hands-on with automation tools, though Excel & MS-Office remai
       - (Bonus) Python (Pandas, NumPy, OpenPyxl) – for future automation readiness.
 
 **About Me**
+
 
 I am Rohan Sakariya, a Computer Engineering diploma student (2023–2025).
       - Passionate about data reporting & verification.
