@@ -6,27 +6,26 @@ This repository contains my Excel-based reporting projects created during my Dip
 
 **1. Academic Grading System (Excel)**
 
-     - Designed a grading calculator using Excel formulas (IF, SUM, RANK).
-     - Automated grade assignment (A+ to F) based on percentage.
-     - Created a clean student performance report with charts and rankings.
+      - Designed a grading calculator using Excel formulas (IF, SUM, RANK).
+      - Automated grade assignment (A+ to F) based on percentage.
+      - Created a clean student performance report with charts and rankings.
     Learning Outcome: Improved skills in Excel formulas, conditional formatting, and visualization.
 
 
 **2. Employee Payroll Reporting (Excel)**
 
-    - Built a payroll workbook with employee details, salary calculation, bonuses, and net pay.
-    - Added department-wise summaries and contribution analysis.
-    - Created a professional report & presentation (Word + PPT) to demonstrate business-level reporting.
-Learning Outcome: Accuracy in data handling, professional MS-Office reporting.
+      - Built a payroll workbook with employee details, salary calculation, bonuses, and net pay.
+      - Added department-wise summaries and contribution analysis.
+      - Created a professional report & presentation (Word + PPT) to demonstrate business-level reporting.
+    Learning Outcome: Accuracy in data handling, professional MS-Office reporting.
 
 
 **3. Automated Payroll & Data Verification (Python + Excel) (Bonus Project)**
 
-    - Automated payroll processing with Python (Pandas, OpenPyxl).
-    - Features: data validation, per-day salary calculation, net salary, and department summaries.
-    - Generated Excel reports with Indian ₹ currency formatting.
-
-Learning Outcome: Hands-on with automation tools, though Excel & MS-Office remain my core skills for reporting.
+     - Automated payroll processing with Python (Pandas, OpenPyxl).
+     - Features: data validation, per-day salary calculation, net salary, and department summaries.
+     - Generated Excel reports with Indian ₹ currency formatting.
+    Learning Outcome: Hands-on with automation tools, though Excel & MS-Office remain my core skills for reporting.
 
 
 **Skills Demonstrated**
