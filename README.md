@@ -28,6 +28,13 @@ This repository contains my Excel-based reporting projects created during my Dip
     Learning Outcome: Hands-on with automation tools, though Excel & MS-Office remain my core skills for reporting.
 
 
+**4. Client Call Data Reporting (Excel)**
+     
+      - Cleaned and structured 150+ customer call records using Data Validation, XLOOKUP, and Pivot Tables.
+      - Built summary dashboards showing customer satisfaction rates, resolution efficiency, and upsell ratio.
+      - Enchanced data consitency by removing dupliicates and formatting values properly.
+      Learning Outcome: Strenghtened accuracy, Excel formula knowledge, and understanding of data-driven reporting.
+
 **Skills Demonstrated**
 
       - MS-Excel: Formulas (SUM, IF, VLOOKUP, RANK), PivotTables, Charts, Conditional Formatting.
